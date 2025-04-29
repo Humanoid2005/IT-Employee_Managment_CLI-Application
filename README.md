@@ -3,9 +3,8 @@
 ## Project Overview
 DBLAB-P094 IT Services – Employee Management System is a comprehensive database system for managing employee information, project assignments, leaves, meetings, skills, and more within an organization.
 
-## Developer Information
+## Project Developer Information
 - **Name:** Sriram Srikanth
-- **Roll Number:** IMT2023115
 - **Project ID:** DBLAB-P094
 
 ## System Users
