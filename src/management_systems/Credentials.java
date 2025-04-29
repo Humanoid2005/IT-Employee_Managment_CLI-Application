@@ -1,8 +1,8 @@
 package management_systems;
 
 public class Credentials {
-    static String USER = "root";
-    static String PASSWORD = "rcop";
+    static String USER = "mysql_username";
+    static String PASSWORD = "mysql_password";
 
     public String getUSER(){
         return USER;
