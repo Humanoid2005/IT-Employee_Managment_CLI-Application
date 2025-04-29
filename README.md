@@ -1,7 +1,7 @@
 # IT Services - Employee Management System
 
 ## Project Overview
-DBLAB-P094 IT Services – Employee Management System is a comprehensive database system for managing employee information, project assignments, leaves, meetings, skills, and more within an organization.
+DBLAB-P094 IT Services – Employee Management System is a comprehensive database system for managing employee information, project assignments, leaves, meetings, skills, and more within an organization.This project has been created as a part of the DBMS Lab Micro-Project assignment at IIIT-B during 4th semester.
 
 ## Project Developer Information
 - **Name:** Sriram Srikanth
