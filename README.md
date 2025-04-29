@@ -160,6 +160,11 @@ DBLAB-P094 IT Services – Employee Management System is a comprehensive databas
 | approved | boolean | DEFAULT false |
 
 
+## Tech Stack
+- Java JDBC for mysql
+- Java for building CLI applications's function handling,cli parser.
+- make file for ease of running the application
+
 ## Run Locally
 
 Clone the project
