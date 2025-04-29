@@ -158,3 +158,63 @@ DBLAB-P094 IT Services – Employee Management System is a comprehensive databas
 | request_to | int | Foreign Key (employees.employee_id) |
 | request_description | varchar(50) | |
 | approved | boolean | DEFAULT false |
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Humanoid2005/IT-Employee_Managment_CLI-Application.git
+```
+
+Go to the project directory
+
+```bash
+  cd IT-Employee_Managment_CLI-Application
+```
+
+Add your mysql username and password in the java file mentioned below
+
+```bash
+  src/management_classes/Credentials.java
+```
+
+Setup and populate the database with data
+
+```bash
+  make setup-db
+```
+
+Run the CLI Application
+
+```bash
+  make run
+```
+
+## Steps to install mysql on linux
+
+Run the following commands on your linux terminal
+
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install mysql-server
+```
+Set your mysql password
+
+```bash
+sudo mysql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY <your_mysqlpassword>;
+```
+
+Now you can run mysql on your terminal by typing the following command
+
+```bash
+mysql -u root -p
+```
+
+
+## Contributions
+I welcome contributions! Feel free to fork the project and open a pull request for any improvements, bug fixes, or new features.
+
